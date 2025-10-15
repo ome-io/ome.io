@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <rect width="100%" height="100%" fill="#fff"/>
+  <text
+    x="50%" y="55%"
+    text-anchor="middle"
+    font-family="system-ui, Segoe UI, Helvetica Neue, Arial, Liberation Sans, Nimbus Sans, sans-serif"
+    font-size="180"
+    fill="#222"
+    font-weight="400"
+    dominant-baseline="middle"
+  >ome</text>
+</svg>
